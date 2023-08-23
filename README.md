@@ -15,8 +15,7 @@ HSAF satellite soil moisture and precipitation data for drought monitoring in ED
 - H SAF soil moisture data record (2007-2022, 12.5 km) - CNR IRPI
 - CCI Passive soil moisture product (2007-2022, 25 km) - JRC
 - SMAP soil moisture (2015-2022, 9 km) - CNR IRPI
-
-Modelled soil moisture and input precipitation data from LISFLOOD, i.e., the data used in  [EDO - JRC](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2112)(5 km).
+- Modelled soil moisture and input precipitation data from LISFLOOD, i.e., the data used in  [EDO - JRC](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2112)(5 km).
 
 **Update on 4/7/2023**: _the new version of SM data with higher spatial resolution should be available from the end of August / September. The two versions will be maintained till the end of the year. A comparison, if feasible, is more than welcome._
 
