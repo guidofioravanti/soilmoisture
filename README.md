@@ -1,6 +1,6 @@
-# Soil Moisture
+# Soil Moisture & Precipitation
 
-H SAF satellite soil moisture and precipitation data for drought monitoring in EDO.
+HSAF satellite soil moisture and precipitation data for drought monitoring in EDO.
 
 <br>
 
