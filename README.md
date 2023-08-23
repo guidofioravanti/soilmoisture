@@ -2,7 +2,11 @@
 
 H SAF satellite soil moisture and precipitation data for drought monitoring in EDO.
 
+<br>
+
 ![](./img/soilmoisture.png)
+
+<br>
 
 ## Data collection
 
