@@ -25,25 +25,47 @@ Reference period for the anomaly computation: 1995 - 2022
 
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Jan.png)
 
+---
+
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Feb.png)
+
+---
 
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Mar.png)
 
+---
+
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Apr.png)
+
+---
 
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_May.png)
 
+---
+
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Jun.png)
+
+---
 
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Jul.png)
 
+---
+
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Aug.png)
+
+---
 
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Sep.png)
 
+---
+
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Oct.png)
 
+---
+
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Nov.png)
+
+---
 
 ![](img/lisflood/boxplot_soil_moisture_monthly_anomaly_Dec.png)
 
