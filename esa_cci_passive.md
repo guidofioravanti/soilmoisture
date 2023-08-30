@@ -16,50 +16,51 @@ Reference period for the anomaly computation: 2007 - 2022
 
 ## Monthly anomaly distribution (2007 - 2022)
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Jan_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Feb_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Mar_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Apr_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_May_esacci.png)
 
 ---
 
-![]()
----
-
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Jun_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Jul_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Aug_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Sep_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Oct_esacci.png)
 
 ---
 
-![]()
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Nov_esacci.png)
+
+---
+
+![](img/esaccidpassive/boxplot_soil_moisture_monthly_anomaly_Dec_esacci.png)
 
 
 ## Mann-Kendall test 2007 - 2022 (annual anomalies)
@@ -75,6 +76,4 @@ Reference period for the anomaly computation: 2007 - 2022
 
 
 ## REFERENCES
-
-[Almendra-Martin et al., 2022](https://www.sciencedirect.com/science/article/pii/S0921818122001357#f0005). Analysis of soil moisture trends in Europe using rank-based and empirical decomposition approaches.
 
