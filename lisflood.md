@@ -81,6 +81,8 @@ The map shows the Theil-Sen slope estimators for pixels where the Mann-Kendall t
 
 ## Mann-Kendall test 1995 - 2022 (monthly anomalies)
 
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_01.png)
+
 
 
 
