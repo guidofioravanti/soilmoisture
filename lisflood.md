@@ -72,6 +72,9 @@ Reference period for the anomaly computation: 1995 - 2022
 
 ## Mann-Kendall test 1995 - 2022 (annual anomalies)
 
+The map shows the Theil-Sen slope estimators for pixels where the Mann-Kendall test is significant. The test has been applied in the LISFLOOD domain excluding the black areas (the areas mascked by the mask shown at the beginning of this page). 
+
+![](img/lisflood/map_ts_annual_soil_moisture_anomaly_lisflood.png)
 
 
 ## Mann-Kendall test 1995 - 2022 (monthly anomalies)
