@@ -65,7 +65,10 @@ Reference period for the anomaly computation: 2007 - 2022
 
 ## Mann-Kendall test 2007 - 2022 (annual anomalies)
 
+:warning: WARNING: the trend has been computed only for pixels with at least ten years of data! In summary, this map cannot be compared with the one produced with the LISFLOOD data (with no missing data)
+:warning: Review carefully the criteria for the data aggregation.
 
+![](img/esaccidpassive/map_ts_annual_soil_moisture_anomaly_esacci.png)
 
 ## Mann-Kendall test 2007 - 2022 (monthly anomalies)
 
