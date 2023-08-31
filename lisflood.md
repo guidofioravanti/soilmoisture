@@ -83,9 +83,49 @@ The map shows the Theil-Sen slope estimators for pixels where the Mann-Kendall t
 
 ![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_01.png)
 
+---
 
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_02.png)
 
+---
 
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_03.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_04.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_05.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_06.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_07.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_08.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_09.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_10.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_11.png)
+
+---
+
+![](img/lisflood/map_ts_monthly_soil_moisture_anomaly_12.png)
 
 
 
