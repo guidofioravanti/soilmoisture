@@ -7,3 +7,11 @@
 | LISFLOOD | | |
 | ASCAT    |-|-|
 
+## ESA-CCI PASSIVE PRODUCT
+
+The 10-day composite constructed by means of the daily data (Guido's composite) does not match the 10-day composite available through C3S (Copernicus' composite).
+
+Two main differences:
+
+- data value (the Copernicus' composite is the average of the daily data? Check it)
+- spatial gaps (the Copernicus' composite seems to be gap-filled, large areas with missing values in Guido's composites have values in the corresponding Copernicus' composite) 
