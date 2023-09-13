@@ -32,7 +32,7 @@ SMOS sensors (Table 23) are processed to extend the ICDR products.
 ### ESA-CCI PASSIVE PRODUCT ICDR from C3S: issues
 
 - 1.5.1.1 Vegetation
-- 1.5.1.2 Frozen surfaces and snow
+- 1.5.1.2 Frozen surfaces and snow (frozen pixels are masked using a "1" value)
 - 1.5.1.3 Water bodies
 - 1.5.1.4 Rainfall
 - 1.5.1.5 Radio Frequency interference
