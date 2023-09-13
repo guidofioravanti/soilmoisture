@@ -24,9 +24,7 @@ In particular:
 
 ```
 1.2 ICDR
-The Intermediate Climate Data Record is a consistent extension of the CDR. The ICDR products are
-generated every dekad (approx. 10 days) and extend the CDR of the same version as the ICDR. The
-same algorithm and software processor are used for generating the ICDR products, also input
-parameter are reused. New near real time observation data from the ASCAT-A/B and AMSR2 and
+The Intermediate Climate Data Record is a consistent extension of the CDR. The ICDR products are generated every dekad (approx. 10 days) and extend the CDR of the same version as the ICDR. The
+same algorithm and software processor are used for generating the ICDR products, also input parameter are reused. New near real time observation data from the ASCAT-A/B and AMSR2 and
 SMOS sensors (Table 23) are processed to extend the ICDR products.
 ```
